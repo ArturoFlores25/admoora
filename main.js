@@ -1,6 +1,6 @@
 alert("¿La Admoora se baña?🤔")
 
-    var bañoAdmoora = prompt ("Responde Sí o No🤓");
+    var bañoAdmoora = prompt ("Responde Sí o No (Escribe sobre la linea la respuesta.)🤓");
 
     switch (bañoAdmoora){
         case "Sí":
